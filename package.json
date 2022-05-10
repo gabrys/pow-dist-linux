@@ -6,7 +6,8 @@
   "author": "Piotr Gabryjeluk <piotr.gabryjeluk@shortlist.co>",
   "license": "MIT",
   "bin": {
-    "pow": "pow"
+    "pow": "pow",
+    "py-pow-runner": "py-pow-runner"
   },
   "cpu": ["x64"],
   "os": ["linux"]
